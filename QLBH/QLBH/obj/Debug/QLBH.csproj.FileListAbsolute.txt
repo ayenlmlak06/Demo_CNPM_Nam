@@ -1,0 +1,16 @@
+E:\CNPM\QLBH\QLBH\bin\Debug\QLBH.exe.config
+E:\CNPM\QLBH\QLBH\bin\Debug\QLBH.exe
+E:\CNPM\QLBH\QLBH\bin\Debug\QLBH.pdb
+E:\CNPM\QLBH\QLBH\obj\Debug\QLBH.frmMain.resources
+E:\CNPM\QLBH\QLBH\obj\Debug\QLBH.frmShipping.resources
+E:\CNPM\QLBH\QLBH\obj\Debug\QLBH.Properties.Resources.resources
+E:\CNPM\QLBH\QLBH\obj\Debug\QLBH.csproj.GenerateResource.cache
+E:\CNPM\QLBH\QLBH\obj\Debug\QLBH.csproj.CoreCompileInputs.cache
+E:\CNPM\QLBH\QLBH\obj\Debug\QLBH.exe
+E:\CNPM\QLBH\QLBH\obj\Debug\QLBH.pdb
+E:\CNPM\QLBH\QLBH\obj\Debug\QLBH.frmWarehouse.resources
+E:\CNPM\QLBH\QLBH\obj\Debug\QLBH.frmImport.resources
+E:\CNPM\QLBH\QLBH\obj\Debug\QLBH.frmAccept.resources
+E:\CNPM\QLBH\QLBH\obj\Debug\QLBH.frmCreateOrder.resources
+E:\CNPM\QLBH\QLBH\obj\Debug\QLBH.frmStatistic.resources
+E:\CNPM\QLBH\QLBH\obj\Debug\QLBH.csproj.AssemblyReference.cache
